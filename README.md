@@ -36,7 +36,7 @@ A modern **MERN Stack Food Delivery System** that allows customers to browse foo
 - React.js
 - React Router
 - Axios
-- CSS
+  
 
 ### Backend
 - Node.js
@@ -152,7 +152,7 @@ Create a `.env` file inside the backend folder.
 Example:
 
 ```env
-PORT=4000
+PORT=5000
 
 MONGODB_URI=your_mongodb_connection_string
 
