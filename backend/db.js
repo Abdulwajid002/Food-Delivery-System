@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 const mongoURI =
-  "mongodb+srv://bsse2380273_db:Szabist.123@cluster0.gsexxhs.mongodb.net/SzabistFood";
+  "mongodb+srv://";
 
 const mongoDb = async () => {
   try {
